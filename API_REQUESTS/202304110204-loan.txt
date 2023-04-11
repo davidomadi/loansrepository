@@ -1,0 +1,6 @@
+Account Number:1003004562
+Account Name:Mable Birungi
+Loan Identifier:Motgage
+Ammount Disbursed:50000000
+Date Disbursed:11-Apr-2023
+
